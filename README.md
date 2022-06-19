@@ -29,6 +29,12 @@ Display the route sequence.
 ![ alt text for screen readers](./images/Map.jpeg "Map around my house")
 
 ## PROGRAM
+```
+/*
+Name: Marinto Richee J
+Reg. No: 212220230031
+*/
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
